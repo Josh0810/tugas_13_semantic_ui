@@ -12,7 +12,6 @@ import {
   Search,
   Header,
   Table,
-  GridColumn,
   Menu,
   Label,
 } from "semantic-ui-react";
